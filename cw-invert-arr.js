@@ -6,3 +6,5 @@ function invert(array) {
 }
 
 console.log(invert([1, -2, 3, -4, 5]))
+
+// a baba galamaga
